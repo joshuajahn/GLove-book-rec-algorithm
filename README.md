@@ -1,29 +1,28 @@
-# recommand_books
+# GLove-book-rec-algorithm
 
-  유사한 책을 추천해주는 model 개발 - glove활용
+  Developed book recommendation model
 
-## 실행 방법
+## How-to
 
   - jupyternotebook
   - colaboratory
 
 ## TODO
 
-     glove.txt 사전 훈련된 glove 임베딩 벡터 받기
-     연령별 데이터 엑셀 파일 받기
+     Download pretrained glove embedding vectors using glove.txt
+     Download "top popular book rankings based on age" excel file
 
-## 데이터 출처
+## Data Source
 
-  - 도서 정보나루 API
-  - 도서 정보나루 빅데이터
-
-
+  - National Library API
+  - National Library Big Data
 
 
 
 
 
-**유의 사항**
 
-  - 주석을 상세히 달아두었으니 참고해서 실행하시면 됩니다.
-  - 사전 훈련된 glove.txt는 용량이 너무 커서 업로드 하지 못하였습니다.
+
+**Caution**
+
+  - The pretrained glove.txt is not uploaded due to file size.
